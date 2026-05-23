@@ -18,6 +18,7 @@ Architecture Decision Records ของ WarpClip. 1 ADR = 1 ไฟล์ `NNNN-<
 | [0003](0003-deploy-vercel.md) | Deploy to Vercel | Accepted | 2026-05-23 |
 | [0004](0004-polyrepo-split.md) | Polyrepo split: webapp + wikis + design | Accepted | 2026-05-23 |
 | [0005](0005-mooniex-house-of-brands.md) | Brand architecture: House of Brands under MoonieX | Accepted | 2026-05-23 |
+| [0006](0006-brand-v2-bw-premium.md) | Brand pivot: B&W premium with single accent (v2.0) | Accepted | 2026-05-23 |
 
 ## Numbering
 
