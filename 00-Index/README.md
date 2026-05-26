@@ -14,6 +14,7 @@ WarpClip = short-form video editing service. Sub-brand ภายใต้ **Moon
 
 ## Map
 
+- 🔥 [[../10-Architecture/Brand-Truth|**Brand Truth (READ FIRST for any brand asset)**]] — canonical visual identity sourced from code
 - [[../10-Architecture/Overview|Architecture Overview]] — system shape, data flow
 - [[../20-Conventions/Code-Style|Code Conventions]] — naming, lint, formatting
 - [[../20-Conventions/Commit-Convention|Commit Convention]]

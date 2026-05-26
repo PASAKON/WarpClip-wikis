@@ -1,15 +1,26 @@
 ---
-title: "ADR-0006: Brand pivot — B&W premium with single accent (v2.0)"
-tags: [adr, brand, design]
-status: Accepted
+title: "ADR-0006: Brand pivot — B&W premium with single accent (v2.0) [DEFERRED]"
+tags: [adr, brand, design, deferred]
+status: Deferred
 date: 2026-05-23
+deferred_at: 2026-05-26
 ---
 
 # ADR-0006 — Brand pivot: B&W premium with single accent (v2.0)
 
+> ⚠️ **STATUS: DEFERRED (2026-05-26).** This ADR proposed pivot to
+> B&W light base + sage/lime single accent. **The pivot was not
+> implemented in code.** Shipped site uses **dark zinc-950 + neon lime
+> `#CCFF00`**.
+>
+> Treat as **future direction proposal**, not a current brand spec.
+> Do not brief brand assets from this document.
+>
+> **Canonical brand spec:** [[../10-Architecture/Brand-Truth|Brand-Truth.md]]
+
 ## Status
 
-Accepted
+Deferred — proposal only, not implemented in code as of 2026-05-26.
 
 ## Context
 

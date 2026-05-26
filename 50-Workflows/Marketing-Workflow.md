@@ -52,6 +52,10 @@ Coordinate (shared):
 
 ## Brand Constraint (binding)
 
+> 🔥 **ALWAYS read [[../10-Architecture/Brand-Truth|Brand-Truth.md]] first.**
+> มันคือ canonical visual spec ที่ sourced จาก running code.
+> ห้าม brief asset โดยไม่ผ่าน Brand-Truth verification protocol.
+
 ทุก asset / copy ที่ออกในนาม WarpClip ต้องผ่าน:
 
 1. **Brand v2.0 visual check** — B&W premium, single accent
